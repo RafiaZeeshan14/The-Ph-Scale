@@ -15,7 +15,7 @@ It allows users to understand the concept of pH, explore the pH scale, and learn
 ## Technologies Used
 This project makes use of the following technologies:
 - HTML/CSS
-- 
+  
 ## Installation
 To run this project locally, follow these steps:
 1. Clone the repository from GitHub.
